@@ -5,5 +5,8 @@
     <color name="red">#FF0000</color>
     <color name="green">#008000</color>
     <color name="light_green">#FF7F50</color>    
+    <color name="back">#FAEBD7</color>
+    <color name="chocolate">#D2691E</color>
+    
 
 </resources>

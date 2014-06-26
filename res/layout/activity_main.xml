@@ -8,6 +8,7 @@
         android:id="@+id/llTop"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/chocolate"
         android:orientation="vertical" >
 
         <EditText
@@ -33,7 +34,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:background="@color/black_overlay"
+        android:background="@color/back"
         android:orientation="vertical" >
 
         <TableLayout
@@ -87,7 +88,7 @@
                     android:text="7"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btn8"
@@ -97,7 +98,7 @@
                     android:text="8"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btn9"
@@ -107,7 +108,7 @@
                     android:text="9"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btnDiv"
@@ -135,7 +136,7 @@
                     android:text="4"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btn5"
@@ -145,7 +146,7 @@
                     android:text="5"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btn6"
@@ -155,7 +156,7 @@
                     android:text="6"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btnProd"
@@ -183,7 +184,7 @@
                     android:text="1"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btn2"
@@ -193,7 +194,7 @@
                     android:text="2"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btn3"
@@ -203,7 +204,7 @@
                     android:text="3"
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
-                    android:textStyle="bold|italic" />
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btnSub"
@@ -223,25 +224,25 @@
                 android:layout_height="wrap_content" >
 
                 <Button
-                    android:id="@+id/btn0"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="30dp"
-                    android:background="@drawable/bbg_evil"
-                    android:text="0"
-                    android:textColor="@color/button_text"
-                    android:textSize="35sp"
-                    android:textStyle="bold|italic" />
-
-                <Button
                     android:id="@+id/btnDot"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_marginLeft="30dp"
                     android:background="@drawable/bbg_evil"
                     android:text="."
                     android:textColor="@color/button_text"
                     android:textSize="35sp"
                     android:textStyle="bold|italic" />
+
+                <Button
+                    android:id="@+id/btn0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bbg_evil"
+                    android:text="0"
+                    android:textColor="@color/button_text"
+                    android:textSize="35sp"
+                    android:textStyle="italic" />
 
                 <Button
                     android:id="@+id/btnApply"

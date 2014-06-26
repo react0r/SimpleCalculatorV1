@@ -858,12 +858,14 @@ containing a value of this type.
         public static final int abc_split_action_bar_is_narrow=0x7f060002;
     }
     public static final class color {
-        public static final int abc_search_url_text_holo=0x7f070008;
+        public static final int abc_search_url_text_holo=0x7f07000a;
         public static final int abc_search_url_text_normal=0x7f070000;
         public static final int abc_search_url_text_pressed=0x7f070002;
         public static final int abc_search_url_text_selected=0x7f070001;
+        public static final int back=0x7f070008;
         public static final int black_overlay=0x7f070003;
         public static final int button_text=0x7f070004;
+        public static final int chocolate=0x7f070009;
         public static final int green=0x7f070006;
         public static final int light_green=0x7f070007;
         public static final int red=0x7f070005;
@@ -1082,13 +1084,14 @@ containing a value of this type.
         public static final int button_normal_inverted=0x7f02005d;
         public static final int button_press=0x7f02005e;
         public static final int button_unfocus=0x7f02005f;
-        public static final int devil_love=0x7f020060;
-        public static final int devil_offline=0x7f020061;
-        public static final int devil_smile=0x7f020062;
-        public static final int green_ball=0x7f020063;
-        public static final int green_ball_pressed=0x7f020064;
-        public static final int grey_ball=0x7f020065;
-        public static final int ic_launcher=0x7f020066;
+        public static final int custom_border=0x7f020060;
+        public static final int devil_love=0x7f020061;
+        public static final int devil_offline=0x7f020062;
+        public static final int devil_smile=0x7f020063;
+        public static final int green_ball=0x7f020064;
+        public static final int green_ball_pressed=0x7f020065;
+        public static final int grey_ball=0x7f020066;
+        public static final int ic_launcher=0x7f020067;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1105,7 +1108,7 @@ containing a value of this type.
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
-        public static final int btn0=0x7f050054;
+        public static final int btn0=0x7f050055;
         public static final int btn1=0x7f05004f;
         public static final int btn2=0x7f050050;
         public static final int btn3=0x7f050051;
@@ -1119,7 +1122,7 @@ containing a value of this type.
         public static final int btnApply=0x7f050056;
         public static final int btnClear=0x7f050043;
         public static final int btnDiv=0x7f050048;
-        public static final int btnDot=0x7f050055;
+        public static final int btnDot=0x7f050054;
         public static final int btnProd=0x7f05004d;
         public static final int btnSub=0x7f050052;
         public static final int checkbox=0x7f05002d;
