@@ -858,11 +858,15 @@ containing a value of this type.
         public static final int abc_split_action_bar_is_narrow=0x7f060002;
     }
     public static final class color {
-        public static final int abc_search_url_text_holo=0x7f070004;
+        public static final int abc_search_url_text_holo=0x7f070008;
         public static final int abc_search_url_text_normal=0x7f070000;
         public static final int abc_search_url_text_pressed=0x7f070002;
         public static final int abc_search_url_text_selected=0x7f070001;
         public static final int black_overlay=0x7f070003;
+        public static final int button_text=0x7f070004;
+        public static final int green=0x7f070006;
+        public static final int light_green=0x7f070007;
+        public static final int red=0x7f070005;
     }
     public static final class dimen {
         /**  Default height of an action bar. 
@@ -1069,18 +1073,22 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int button_background=0x7f020057;
-        public static final int button_background2=0x7f020058;
-        public static final int button_focus=0x7f020059;
-        public static final int button_normal=0x7f02005a;
-        public static final int button_normal_focus_red=0x7f02005b;
-        public static final int button_normal_inverted=0x7f02005c;
-        public static final int button_press=0x7f02005d;
-        public static final int button_unfocus=0x7f02005e;
-        public static final int green_ball=0x7f02005f;
-        public static final int green_ball_pressed=0x7f020060;
-        public static final int grey_ball=0x7f020061;
-        public static final int ic_launcher=0x7f020062;
+        public static final int bbg_evil=0x7f020057;
+        public static final int button_background=0x7f020058;
+        public static final int button_background2=0x7f020059;
+        public static final int button_focus=0x7f02005a;
+        public static final int button_normal=0x7f02005b;
+        public static final int button_normal_focus_red=0x7f02005c;
+        public static final int button_normal_inverted=0x7f02005d;
+        public static final int button_press=0x7f02005e;
+        public static final int button_unfocus=0x7f02005f;
+        public static final int devil_love=0x7f020060;
+        public static final int devil_offline=0x7f020061;
+        public static final int devil_smile=0x7f020062;
+        public static final int green_ball=0x7f020063;
+        public static final int green_ball_pressed=0x7f020064;
+        public static final int grey_ball=0x7f020065;
+        public static final int ic_launcher=0x7f020066;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1125,7 +1133,7 @@ containing a value of this type.
         public static final int end=0x7f050013;
         public static final int expand_activities_button=0x7f050026;
         public static final int expanded_menu=0x7f05002c;
-        public static final int group1=0x7f050058;
+        public static final int group1=0x7f050059;
         public static final int home=0x7f050014;
         public static final int homeAsUp=0x7f050005;
         public static final int icon=0x7f05002a;
@@ -1135,7 +1143,7 @@ containing a value of this type.
         public static final int list_item=0x7f050029;
         public static final int llCenter=0x7f05003e;
         public static final int llTop=0x7f05003c;
-        public static final int menu_exit=0x7f050059;
+        public static final int menu_exit=0x7f05005a;
         public static final int middle=0x7f050012;
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
@@ -1161,6 +1169,7 @@ containing a value of this type.
         public static final int submit_area=0x7f050039;
         public static final int tabMode=0x7f050002;
         public static final int tableRow1=0x7f050053;
+        public static final int tableRow2=0x7f050058;
         public static final int textView1=0x7f050040;
         public static final int textView2=0x7f050042;
         public static final int textView3=0x7f050041;
@@ -2651,7 +2660,7 @@ containing a value of this type.
          */
         public static final int[] MenuView = {
             0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
-            0x0101012f, 0x01010130, 0x01010131, 0x01010435
+            0x0101012f, 0x01010130, 0x01010131, 0x010103f8
         };
         /**
           <p>

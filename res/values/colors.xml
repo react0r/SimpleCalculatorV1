@@ -1,5 +1,9 @@
 <resources>
 
     <color name="black_overlay">#FF000000</color>
+    <color name="button_text">#FF4617B4</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#008000</color>
+    <color name="light_green">#FF7F50</color>    
 
 </resources>
